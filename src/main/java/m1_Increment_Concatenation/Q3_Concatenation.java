@@ -1,6 +1,6 @@
-package day04_Increment_Concatenation;
+package m1_Increment_Concatenation;
 
-public class C03_Concatenation {
+public class Q3_Concatenation {
 
     public static void main(String[] args) {
         int a = 10;

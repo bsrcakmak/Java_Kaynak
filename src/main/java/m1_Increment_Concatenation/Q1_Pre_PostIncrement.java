@@ -1,6 +1,6 @@
-package day04_Increment_Concatenation;
+package m1_Increment_Concatenation;
 
-public class C01_Pre_PostIncrement {
+public class Q1_Pre_PostIncrement {
 
     public static void main(String[] args) {
         int sayi=20;
